@@ -1,0 +1,44 @@
+C:\Users\Ann\YandexDisk\DollarRate\DollarRate\obj\Debug\MainWindow.g.cs
+C:\Users\Ann\YandexDisk\DollarRate\DollarRate\obj\Debug\App.g.cs
+C:\Users\Ann\YandexDisk\DollarRate\DollarRate\obj\Debug\DollarRate_MarkupCompile.cache
+C:\Users\Ann\YandexDisk\DollarRate\DollarRate\obj\Debug\DollarRate_MarkupCompile.lref
+C:\Users\Ann\YandexDisk\DollarRate\DollarRate\bin\Debug\DollarRate.exe.config
+C:\Users\Ann\YandexDisk\DollarRate\DollarRate\bin\Debug\DollarRate.exe
+C:\Users\Ann\YandexDisk\DollarRate\DollarRate\bin\Debug\DollarRate.pdb
+C:\Users\Ann\YandexDisk\DollarRate\DollarRate\obj\Debug\MainWindow.baml
+C:\Users\Ann\YandexDisk\DollarRate\DollarRate\obj\Debug\DollarRate.g.resources
+C:\Users\Ann\YandexDisk\DollarRate\DollarRate\obj\Debug\DollarRate.Properties.Resources.resources
+C:\Users\Ann\YandexDisk\DollarRate\DollarRate\obj\Debug\DollarRate.csproj.GenerateResource.cache
+C:\Users\Ann\YandexDisk\DollarRate\DollarRate\obj\Debug\DollarRate.exe
+C:\Users\Ann\YandexDisk\DollarRate\DollarRate\obj\Debug\DollarRate.pdb
+D:\user\Яндекс Диск\YandexDisk\DollarRate\DollarRate\obj\Debug\MainWindow.g.cs
+D:\user\Яндекс Диск\YandexDisk\DollarRate\DollarRate\obj\Debug\DollarRate_MarkupCompile.cache
+D:\user\Яндекс Диск\YandexDisk\DollarRate\DollarRate\obj\Debug\DollarRate_MarkupCompile.lref
+D:\user\Яндекс Диск\YandexDisk\DollarRate\DollarRate\obj\Debug\DollarRate.exe
+D:\user\Яндекс Диск\YandexDisk\DollarRate\DollarRate\obj\Debug\DollarRate.pdb
+D:\user\Яндекс Диск\YandexDisk\DollarRate\DollarRate\bin\Debug\DollarRate.exe.config
+D:\user\Яндекс Диск\YandexDisk\DollarRate\DollarRate\bin\Debug\DollarRate.exe
+D:\user\Яндекс Диск\YandexDisk\DollarRate\DollarRate\bin\Debug\DollarRate.pdb
+D:\user\Яндекс Диск\YandexDisk\DollarRate\DollarRate\bin\Debug\MaterialDesignColors.dll
+D:\user\Яндекс Диск\YandexDisk\DollarRate\DollarRate\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\user\Яндекс Диск\YandexDisk\DollarRate\DollarRate\bin\Debug\MaterialDesignColors.pdb
+D:\user\Яндекс Диск\YandexDisk\DollarRate\DollarRate\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\user\Яндекс Диск\YandexDisk\DollarRate\DollarRate\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\user\Яндекс Диск\YandexDisk\DollarRate\DollarRate\obj\Debug\App.g.cs
+D:\user\Яндекс Диск\YandexDisk\DollarRate\DollarRate\obj\Debug\App.baml
+D:\user\Яндекс Диск\YandexDisk\DollarRate\DollarRate\obj\Debug\MainWindow.baml
+D:\user\Яндекс Диск\YandexDisk\DollarRate\DollarRate\obj\Debug\DollarRate.g.resources
+D:\user\Яндекс Диск\YandexDisk\DollarRate\DollarRate\obj\Debug\DollarRate.Properties.Resources.resources
+D:\user\Яндекс Диск\YandexDisk\DollarRate\DollarRate\obj\Debug\DollarRate.csproj.GenerateResource.cache
+D:\user\Яндекс Диск\YandexDisk\DollarRate\DollarRate\obj\Debug\DollarRate.csproj.CoreCompileInputs.cache
+D:\user\Яндекс Диск\YandexDisk\DollarRate\DollarRate\obj\Debug\DollarRate.csproj.CopyComplete
+D:\user\Яндекс Диск\YandexDisk\DollarRate\DollarRate\bin\Debug\LiveCharts.dll
+D:\user\Яндекс Диск\YandexDisk\DollarRate\DollarRate\bin\Debug\LiveCharts.Wpf.dll
+D:\user\Яндекс Диск\YandexDisk\DollarRate\DollarRate\bin\Debug\LiveCharts.pdb
+D:\user\Яндекс Диск\YandexDisk\DollarRate\DollarRate\bin\Debug\LiveCharts.xml
+D:\user\Яндекс Диск\YandexDisk\DollarRate\DollarRate\bin\Debug\LiveCharts.Wpf.pdb
+D:\user\Яндекс Диск\YandexDisk\DollarRate\DollarRate\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Ann\YandexDisk\DollarRate\DollarRate\obj\Debug\App.baml
+C:\Users\Ann\YandexDisk\DollarRate\DollarRate\obj\Debug\DollarRate.csproj.CopyComplete
+C:\Users\Ann\YandexDisk\DollarRate\DollarRate\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Ann\YandexDisk\DollarRate\DollarRate\obj\Debug\DollarRate.csprojAssemblyReference.cache
